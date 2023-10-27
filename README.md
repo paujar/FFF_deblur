@@ -1,8 +1,6 @@
 # 🎯 FocusFrameFinder: Your AI-Powered Image Sequence Lifesaver! 📷💥
 
-
-
-
+🔥 🔥 This is side fork of the original with argument support. Magic! 🔥 🔥
 
 🔥 Welcome aboard! You've stumbled upon the **_FocusFrameFinder_** - your one-stop Python sidekick to conquer the world of blurry images in your sequences. Whether you're on a mission to generate top-notch Neural Radiance Fields (NeRFs) 🌌, creating eye-popping 3D models 🏞 from 2D images, or just decluttering your image library 🗃, we got your back!
 

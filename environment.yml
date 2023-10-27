@@ -1,0 +1,9 @@
+name: FFF_deblur
+channels:
+  - defaults
+dependencies:
+  - numpy=1.26.0=py311h24aa872_0
+  - opencv=4.6.0=py311h10ae9b0_5
+  - python=3.11.5=h955ad1f_0
+  - tqdm=4.65.0=py311h92b7b1e_0
+prefix: /home/user/anaconda3/envs/FFF_deblur
